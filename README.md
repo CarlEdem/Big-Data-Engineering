@@ -1,5 +1,5 @@
 # Big-Data-Engineering
-INFLATION DATA ANALYSIS
+Inflation Data Analysis using Databricks platform 
 
 
 This project is an attempt to understand inflation on a small scale. We picked three distinct
